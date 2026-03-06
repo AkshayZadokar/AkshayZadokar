@@ -14,6 +14,12 @@ Hi, I'm Akshay Zadokar 👋<br><br>🎓 Currently pursuing B.Com (Semester 2)<br
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hhhh&show_icons=true&locale=en&layout=compact" alt="hhhh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hhhh&show_icons=true&locale=en" alt="hhhh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hhhh&" alt="hhhh" /></p>
+
 
 
 
