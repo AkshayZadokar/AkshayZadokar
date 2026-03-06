@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Akshay 👋<br><br>🎓 Currently pursuing B.Com (Semester 2)<br>I am passionate about Data Analytics and Business Intelligence.  <br>I enjoy working with data, building dashboards, and solving real-world problems using technology.
+Hi, I'm Akshay Zadokar 👋<br><br>🎓 Currently pursuing B.Com (Semester 2)<br>I am passionate about Data Analytics and Business Intelligence.  <br>I enjoy working with data, building dashboards, and solving real-world problems using technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__akshu_07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshayzadokar07@gmail.com) 
